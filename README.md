@@ -1,4 +1,6 @@
 <p align="center">
+  
+  # :happy_clap: Ecole 42 Status:
   <a href="https://profile.intra.42.fr/users/bcayir"><img width="48%" src="https://badge42.vercel.app/api/v2/cl23d4jij008309mbj1i6njd5/stats?cursusId=9&coalitionId=undefined" alt="bcayir's 42 stats" /></a>
   <a href="https://profile.intra.42.fr/users/bcayir"><img width="48%" src="https://badge42.vercel.app/api/v2/cl23d4jij008309mbj1i6njd5/stats?cursusId=21&coalitionId=undefined" alt="bcayir's 42 stats" /></a>
   
