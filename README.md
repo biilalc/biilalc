@@ -1,5 +1,4 @@
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=biilalc&show_icons=true&theme=tokyonight" /> <img width="48%"        src="https://github-readme-streak-stats.herokuapp.com/?user=biilalc&theme=tokyonight" />
   <a href="https://profile.intra.42.fr/users/bcayir"><img width="48%" src="https://badge42.vercel.app/api/v2/cl23d4jij008309mbj1i6njd5/stats?cursusId=9&coalitionId=undefined" alt="bcayir's 42 stats" /></a>
   <a href="https://profile.intra.42.fr/users/bcayir"><img width="48%" src="https://badge42.vercel.app/api/v2/cl23d4jij008309mbj1i6njd5/stats?cursusId=21&coalitionId=undefined" alt="bcayir's 42 stats" /></a>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="vuejs" width="40" height="40"/>
