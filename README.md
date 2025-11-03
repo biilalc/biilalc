@@ -17,19 +17,35 @@
 <table>
   <tr>
     <td align="left" width="150"><b>💻 Languages</b></td>
-    <td align="left"><img src="https://skillicons.dev/icons?i=c,cpp,python,js,dart&theme=dark" alt="Languages"/></td>
+    <td align="left">
+      <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+      <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
+    </td>
   </tr>
   <tr>
     <td align="left"><b>📱 Mobile & Web</b></td>
-    <td align="left"><img src="https://skillicons.dev/icons?i=flutter,android,fastapi&theme=dark" alt="Mobile & Web"/></td>
+    <td align="left">
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+      <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+    </td>
   </tr>
   <tr>
     <td align="left"><b>🔬 Testing</b></td>
-    <td align="left"><img src="https://skillicons.dev/icons?i=selenium&theme=dark" alt="Testing"/> <img src="https://img.shields.io/badge/Appium-662D91?style=for-the-badge&logo=appium&logoColor=white" alt="Appium"/></td>
+    <td align="left">
+      <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"/>
+      <img src="https://img.shields.io/badge/Appium-662D91?style=for-the-badge&logo=appium&logoColor=white" alt="Appium"/>
+    </td>
   </tr>
   <tr>
     <td align="left"><b>🗄️ Database & DevOps</b></td>
-    <td align="left"><img src="https://skillicons.dev/icons?i=postgres,docker&theme=dark" alt="Database & DevOps"/></td>
+    <td align="left">
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+    </td>
   </tr>
 </table>
 
@@ -53,11 +69,7 @@
 
 <img src="https://github-profile-trophy.vercel.app/?username=biilalc&theme=radical&no-frame=true&row=1&column=6&margin-w=15" alt="Trophies"/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/biilalc/biilalc/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/biilalc/biilalc/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/biilalc/biilalc/output/github-contribution-grid-snake.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/biilalc/biilalc/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
 
 ---
 
