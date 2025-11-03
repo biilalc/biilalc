@@ -14,30 +14,24 @@
 
 ## 🚀 Tech Stack
 
-<details open>
-<summary><b>💻 Languages</b></summary>
-<br>
-<img src="https://skillicons.dev/icons?i=c,cpp,python,js,dart&theme=dark" alt="Languages"/>
-</details>
-
-<details open>
-<summary><b>📱 Mobile & Web Development</b></summary>
-<br>
-<img src="https://skillicons.dev/icons?i=flutter,android,fastapi&theme=dark" alt="Mobile & Web"/>
-</details>
-
-<details open>
-<summary><b>🔬 Testing & Automation</b></summary>
-<br>
-<img src="https://skillicons.dev/icons?i=selenium&theme=dark" alt="Testing"/>
-<img src="https://img.shields.io/badge/Appium-662D91?style=for-the-badge&logo=appium&logoColor=white" alt="Appium"/>
-</details>
-
-<details open>
-<summary><b>🗄️ Database & DevOps</b></summary>
-<br>
-<img src="https://skillicons.dev/icons?i=postgres,docker&theme=dark" alt="Database & DevOps"/>
-</details>
+<table>
+  <tr>
+    <td align="left" width="150"><b>💻 Languages</b></td>
+    <td align="left"><img src="https://skillicons.dev/icons?i=c,cpp,python,js,dart&theme=dark" alt="Languages"/></td>
+  </tr>
+  <tr>
+    <td align="left"><b>📱 Mobile & Web</b></td>
+    <td align="left"><img src="https://skillicons.dev/icons?i=flutter,android,fastapi&theme=dark" alt="Mobile & Web"/></td>
+  </tr>
+  <tr>
+    <td align="left"><b>🔬 Testing</b></td>
+    <td align="left"><img src="https://skillicons.dev/icons?i=selenium&theme=dark" alt="Testing"/> <img src="https://img.shields.io/badge/Appium-662D91?style=for-the-badge&logo=appium&logoColor=white" alt="Appium"/></td>
+  </tr>
+  <tr>
+    <td align="left"><b>🗄️ Database & DevOps</b></td>
+    <td align="left"><img src="https://skillicons.dev/icons?i=postgres,docker&theme=dark" alt="Database & DevOps"/></td>
+  </tr>
+</table>
 
 ---
 
