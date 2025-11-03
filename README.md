@@ -1,12 +1,13 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Bilal%20Çayır&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=fff" />
+
 # 👋 Hi, I'm Bilal Çayır
 
 ### 💻 Software Developer | Mobile & Backend Specialist
 
 <a href="https://linkedin.com/in/bilal-çayır-b23733230"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://instagram.com/biilalc"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-<a href="https://bionluk.com/bilalcayir"><img src="https://img.shields.io/badge/Bionluk-00C26D?style=for-the-badge&logoColor=white" alt="Bionluk"/></a>
 <a href="https://profile.intra.42.fr/users/bcayir"><img src="https://img.shields.io/badge/42_Network-000000?style=for-the-badge&logo=42&logoColor=white" alt="42"/></a>
 
 ---
@@ -14,27 +15,28 @@
 ## 🚀 Tech Stack
 
 <details open>
-<summary><b>🔤 Languages</b></summary>
+<summary><b>💻 Languages</b></summary>
 <br>
-<img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,dart&theme=dark" alt="Languages"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js,dart&theme=dark" alt="Languages"/>
 </details>
 
 <details open>
-<summary><b>📱 Mobile & Web Frameworks</b></summary>
+<summary><b>📱 Mobile & Web Development</b></summary>
 <br>
-<img src="https://skillicons.dev/icons?i=flutter,androidstudio,fastapi&theme=dark" alt="Frameworks"/>
+<img src="https://skillicons.dev/icons?i=flutter,android,fastapi&theme=dark" alt="Mobile & Web"/>
 </details>
 
 <details open>
-<summary><b>🧪 Testing & Automation</b></summary>
+<summary><b>🔬 Testing & Automation</b></summary>
 <br>
-<img src="https://skillicons.dev/icons?i=selenium&theme=dark" alt="Testing"/> <img src="https://img.shields.io/badge/Appium-662D91?style=for-the-badge&logo=appium&logoColor=white" alt="Appium"/>
+<img src="https://skillicons.dev/icons?i=selenium&theme=dark" alt="Testing"/>
+<img src="https://img.shields.io/badge/Appium-662D91?style=for-the-badge&logo=appium&logoColor=white" alt="Appium"/>
 </details>
 
 <details open>
 <summary><b>🗄️ Database & DevOps</b></summary>
 <br>
-<img src="https://skillicons.dev/icons?i=postgresql,docker&theme=dark" alt="Database & DevOps"/>
+<img src="https://skillicons.dev/icons?i=postgres,docker&theme=dark" alt="Database & DevOps"/>
 </details>
 
 ---
@@ -57,22 +59,11 @@
 
 <img src="https://github-profile-trophy.vercel.app/?username=biilalc&theme=radical&no-frame=true&row=1&column=6&margin-w=15" alt="Trophies"/>
 
-<img src="https://github.com/biilalc/biilalc/blob/main/github-contribution-grid-snake.svg" alt="Snake Animation"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biilalc&layout=donut&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages"/>
-
----
-
-## 💡 Coding Stats
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=biilalc&theme=radical" alt="Profile Summary"/>
-
-<table>
-  <tr>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=biilalc&theme=radical" alt="Productive Time"/></td>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=biilalc&theme=radical" alt="Repos Per Language"/></td>
-  </tr>
-</table>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/biilalc/biilalc/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/biilalc/biilalc/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/biilalc/biilalc/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
@@ -82,6 +73,8 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=40&fontAlignY=70&animation=twinkling"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F85D7F&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+%F0%9F%91%8B;Let's+build+something+amazing!+%F0%9F%9A%80;Always+learning%2C+always+coding!+%F0%9F%92%BB" alt="Typing SVG" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&animation=twinkling"/>
 
 </div>
